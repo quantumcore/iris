@@ -1,3 +1,5 @@
+###### NOTE : This is deprecated. Please do not expect any updates.
+
 ### IRIS
 Mass Social Engineering tool and Email and Account Extraction (Random Brute Force Discovery) and Password Brute Force through Tor.
 - Automatic Random Email and Password generation.
