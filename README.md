@@ -14,7 +14,7 @@ And it's easier because I found a Module to Brute Force easily over Tor.
 Every Single account brute forced by this tool is over Tor because of [Instagram-Py](https://github.com/deathsec/instagram-py).
 On a successful login attempt, They will receive a notification which looks like this.
 
-![ALERT](https://github.com/quantumcored/paradoxia/blob/master/iris/alert.png)
+![ALERT](https://github.com/quantumcored/iris/raw/main/alert.png)
 
 #### Mass Email
 You can send Emails with malacious or legitimate attachments to Random emails, Or use an email list to send to.
